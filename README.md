@@ -5,3 +5,6 @@ Para acessar o servidor utilize localhost:9443/cadcliente.
 
 A simple customer registration system using Node.js, Express.js, Sequelize, and SQL. To test, use npm install and install the dependencies, according to the JSON. 
 To access the server use localhost:9443/cadcliente.
+
+**Preview**
+![alt text](https://github.com/Nenphy/bancoDados/blob/main/assets/bancoDados.png)
